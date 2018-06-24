@@ -2,7 +2,7 @@
 MemcacheStatusRespondChecker and MemcacheChecker and setup for a Memcache based Server\/Network benchmark.
 
 ## dependencies
-[php-memecahed, php-cli, libmemcached, libpthread]
+[php-memecahe, php-cli, libmemcached, libpthread]
 
 # How to use it?
 You need a list of IP that opened udp port 11211;
